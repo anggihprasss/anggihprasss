@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anggih Prasetio</h1>
-- 🌱 I’m currently learning at **Universitas Pendidikan Indonesia**
+- 🌱 I’m currently learning at **href="upi.edu"**
 
-- 📫 How to reach me **anggihprasetio77@upi.edu**
+- 📫 How to reach me *anggihprasetio77@upi.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
