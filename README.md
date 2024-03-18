@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anggih Prasetio</h1>
-- 🌱 I’m currently learning at **href="upi.edu"**
+- 🌱 I’m currently learning at **Universitas Pendidikan Indonesia**
 
 - 📫 How to reach me *anggihprasetio77@upi.edu**
 
