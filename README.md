@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anggih Prasetio</h1>
 
-- 📒 I’m currently learning at [Universitas Pendidikan Indonesia](http://upi.edu)
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anggihprasss&label=Profile%20views&color=0e75b6&style=flat" alt="anggihprasss" /> </p>
+
+- 📒 I’m currently learning at [Universitas Pendidikan Indonesia](http://upi.edu)  
 
 - 📧 How to reach me *anggihprasetio77@upi.edu*
 
