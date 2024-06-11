@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anggih Prasetio</h1>
+<h1 align="center">
+  Hi 👋, I'm Anggih Prasetio
+  <sup>
+    <img src="https://komarev.com/ghpvc/?username=anggihprasss&label=PROFILE+VIEWS&color=red&style=plastic" alt="anggihprasss" style="height: 16px; vertical-align: top; margin-left: 5px;" />
+  </sup>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anggihprasss&label=PROFILE+VIEWS&color=red&style=plastic" alt="anggihprasss" /> </p>
 
 - 📒 I’m currently learning at [Universitas Pendidikan Indonesia](http://upi.edu)  
 
